@@ -2,7 +2,7 @@
 Directions on using Webstorm tutorial:
 
 
-Glossary:
+<strong>Glossary:</strong>
 Branch
 Clone
 Commit
